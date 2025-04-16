@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+requirements.txt
+
+# Data
+data/
+
+# Cursor
+.cursor/
+
 # C extensions
 *.so
 
